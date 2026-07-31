@@ -1,0 +1,2 @@
+:HL["/deep-investigation-lab-version-w1/_next/static/chunks/021jfumduxzx2.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"preview","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"research-2026-07-25-1ckq68","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LJpNFFtRgdOyqGMSKdMou"}

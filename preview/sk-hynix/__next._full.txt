@@ -1,0 +1,433 @@
+1:"$Sreact.fragment"
+2:I[50139,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"default"]
+3:I[39756,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"default"]
+4:I[37457,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"default"]
+6:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"ViewportBoundary"]
+c:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"MetadataBoundary"]
+e:I[68027,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"default",1]
+:HL["/deep-investigation-lab-version-w1/_next/static/chunks/021jfumduxzx2.css","style"]
+0:{"P":null,"c":["","preview","sk-hynix",""],"q":"","i":false,"f":[[["",{"children":["preview",{"children":[["slug","sk-hynix","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/deep-investigation-lab-version-w1/_next/static/chunks/021jfumduxzx2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/deep-investigation-lab-version-w1/_next/static/chunks/021jfumduxzx2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"LJpNFFtRgdOyqGMSKdMou"}
+f:[]
+9:"$Wf"
+10:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+11:I[22016,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],""]
+12:Tb431,<div class="article-intro"><h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
+<p id="P9008UP" class="drop-cap reveal">一家曾跌到每股135韩元、被债权人托管二十三年的韩国芯片公司，如今市值站上1万亿美元——因为它是英伟达AI显卡那颗HBM内存的独家稳定供应商。但这份地位也意味着：近三成营收押在单一客户身上，近一半产能放在中美夹缝的工厂里，利润靠着一轮尚未验证能否持久的涨价周期。</p></div>
+<h2 id="c0" data-chapter-label="导语" class="reveal"><span class="chap-num">导语</span></h2>
+<p id="PPEBSD0" class="reveal">2026年7月10日，纽约纳斯达克。一家韩国芯片公司的钟声敲响。177.9万份美国存托凭证，每股149美元，募资265亿美元——这是史上规模最大的外资企业IPO。开盘168美元。代码SKHY<sup><a id="fnref-23-1" href="#fn23" aria-label="查看注释 23">[23]</a></sup>。</p>
+<p id="PYT3842" class="reveal">就在上市前一个多月，SK海力士的市值刚突破1万亿美元，把盘踞韩国市值榜首几十年的三星电子甩在后面<sup><a id="fnref-12-1" href="#fn12" aria-label="查看注释 12">[12]</a></sup>。而时间往回拨二十三年，同一家公司跌到每股135韩元（按当时汇率约合0.1美元），负债率206%，被债权人托管<sup><a id="fnref-13-1" href="#fn13" aria-label="查看注释 13">[13]</a></sup>。一家从悬崖边爬回来的公司，现在站在全球半导体产业链的正中央。</p>
+<p id="PBVLBZ7" class="reveal">2003年，海力士负债约140亿美元，工程师在老旧的8英寸产线上手工优化工艺。当时它的主产品是通用DRAM——一种标准化到几乎像大宗商品的存储芯片，价格随供需周期剧烈波动。没有人会想到，二十多年后，这家公司的命运会绑在一种当时还无人问津的技术上：HBM（高带宽内存），一种把多颗DRAM垂直堆叠、紧贴在GPU旁边的专用芯片。也没有人想到，正是这个决定，把它从"行业老二"推成了英伟达AI服务器最关键的一家供应商——同时，也把三种风险推到了前所未有的高度。</p>
+<p id="PRUNS9D" class="reveal">市值站上1万亿美元后，市场用真金白银表达了热情：IPO超购7倍，韩国本地股价半年涨174%、一年涨634%，KOSPI一度涨5%、交易所短暂暂停程序化买盘，散户抢着开户、连金融教育网站都被挤崩\[23\]\<sup><a id="fnref-12-2" href="#fn12" aria-label="查看注释 12">[12]</a></sup>。以TTM市盈率约20.6倍、远期约7.5倍衡量，估值在AI硬件链里不算离谱——但狂热本身，就是该警惕的信号。</p>
+<h2 class="reveal"><span class="chap-num">第1章</span>一家"二线存储器厂"如何卡住了AI的脖子</h2>
+<p id="P3ZC1RT" class="reveal">大语言模型训练时，算力再强，如果数据喂不进去，GPU就会"空转"。业内管这个叫"内存墙"（memory wall）。一个直观的对比：传统服务器内存DDR5的带宽大约每秒50 GB，而一颗HBM3E已逼近每秒1 TB，相差近20倍<sup><a id="fnref-11-1" href="#fn11" aria-label="查看注释 11">[11]</a></sup>。差距大到，GPU的算力优势会被内存拖累得所剩无几。</p>
+<p id="PBO20KP" class="reveal">解决这个问题的，是HBM——把多颗DRAM芯片垂直堆叠，通过硅通孔（TSV）与GPU封装在一起<sup><a id="fnref-11-2" href="#fn11" aria-label="查看注释 11">[11]</a></sup>。十几层DRAM薄die精准对齐、用微米级通孔连起来、再和GPU同封装——良率与工艺门槛极高。更关键的是位置：HBM紧挨GPU裸片，同在一个封装里，数据走极短的垂直通道。这正是它能把带宽做到DDR5二十倍的根本原因。到HBM4，接口位宽从1024位翻倍到2048位，单颗带宽突破2.8 TB/s<sup><a id="fnref-19-1" href="#fn19" aria-label="查看注释 19">[19]</a></sup>。</p>
+<p id="PYWMY3O" class="reveal">SK海力士正是在这块"专用"赛道上拿到了别人没有的位置。它是全球第一家量产HBM3（2023）的公司，随后率先量产12层HBM3E（2024），并在2025年9月完成HBM4的量产准备\<sup><a id="fnref-11-3" href="#fn11" aria-label="查看注释 11">[11]</a></sup>；2026年2月率先进入HBM4量产，供货英伟达下一代Vera Rubin平台\[20\]\<sup><a id="fnref-24-1" href="#fn24" aria-label="查看注释 24">[24]</a></sup>。</p>
+<p id="P2PFG9A" class="reveal">但这种领先是整个行业一起付的代价。每生产1 GB的HBM，约需要3倍于标准DDR5的晶圆产能<sup><a id="fnref-20-1" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。当SK、三星、美光不约而同地把最先进的晶圆产能从通用DRAM转向HBM，通用DRAM的供给被挤紧，消费级DRAM价格在四年间涨了约700%<sup><a id="fnref-20-2" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。</p>
+<p id="PA7JNNB" class="reveal">封装路线也藏着差异化。SK海力士的HBM采用自研MR-MUF工艺，把单颗DRAM晶圆减薄至约30微米，在一次回流焊中完成多层垂直互连，散热较传统热压键合优约1.6倍；三星、美光走的是TCB+NCF路线\[20\]\<sup><a id="fnref-24-2" href="#fn24" aria-label="查看注释 24">[24]</a></sup>。路线之争直接关系到16层堆叠的良率——三星曾披露其混合键合良率仅约10%，要走到商用还需迭代\<sup><a id="fnref-24-3" href="#fn24" aria-label="查看注释 24">[24]</a></sup>。与此同时，HBM4已把基底芯片从DRAM制程换到台积电12nm逻辑节点\<sup><a id="fnref-25-1" href="#fn25" aria-label="查看注释 25">[25]</a></sup>。当英伟达Vera Rubin NVL72系统单机柜集成72颗Rubin GPU、仅HBM4总显存就达20.7 TB、累计内存带宽1.6 PB/s时\<sup><a id="fnref-20-3" href="#fn20" aria-label="查看注释 20">[20]</a></sup>，没有HBM的垂直堆叠与极短通道，这些数字根本无从谈起。也正因堆叠与封装极难，HBM的全球产能长期集中在SK、三星、美光三家手里，合计占先进HBM九成以上</p>
+<figure class="report-chart report-chart--donut" data-visual-id="V01" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 01｜构成</div>
+<h3 class="report-chart__title">DRAM 贡献约三分之二营收，HBM 是其中的高价值子集</h3>
+<p class="report-chart__subtitle reveal">2025 年营收结构；DRAM 60–70%、NAND 30–35%，图示取区间中值</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__donut-wrap">
+<svg viewBox="0 0 220 220" role="img" aria-label="DRAM 贡献约三分之二营收，HBM 是其中的高价值子集">
+<circle class="report-chart__seg-track" cx="110" cy="110" r="78" fill="none"/>
+<g class="report-chart__donut-segments" data-chart-animate="donut" transform="rotate(-90 110 110)">
+<circle class="report-chart__seg report-chart__seg--accent" cx="110" cy="110" r="78" pathLength="100" fill="none"
+      stroke-dashoffset="0.00" style="--seg:65.00 35.00"/>
+<circle class="report-chart__seg report-chart__seg--n2" cx="110" cy="110" r="78" pathLength="100" fill="none"
+      stroke-dashoffset="-65.00" style="--seg:35.00 65.00"/>
+</g>
+<text class="report-chart__donut-center" x="110" y="112" text-anchor="middle">65%</text>
+<text class="report-chart__donut-center-label" x="110" y="134" text-anchor="middle">DRAM（含 HBM）</text>
+</svg></div>
+</div>
+<div class="report-chart__legend report-chart__legend--stack"><span class="report-chart__legend-item"><i class="report-chart__swatch report-chart__swatch--accent"></i>DRAM（含 HBM）<b class="report-chart__legend-value">65%</b></span><span class="report-chart__legend-item"><i class="report-chart__swatch report-chart__swatch--n2"></i>NAND（含 Solidigm）<b class="report-chart__legend-value">35%</b></span></div>
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：公司 IPO 招股书及 2025 年年报；调查团队整理（区间中值示意）</p>
+</footer>
+</figure>
+<p id="PQ20B26" class="reveal">\<sup><a id="fnref-20-4" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。</p>
+<h2 class="reveal"><span class="chap-num">第2章</span>从-7.7万亿到单季37.6万亿</h2>
+<p id="P6JFBK" class="reveal">2023年，SK海力士全年净亏损7.73万亿韩元，营业利润率-24%\<sup><a id="fnref-1-1" href="#fn1" aria-label="查看注释 1">[1]</a></sup>。到了2025年，营收97.15万亿韩元，营业利润47.21万亿韩元，净利润42.95万亿韩元，营业利润率49%\<sup><a id="fnref-3-1" href="#fn3" aria-label="查看注释 3">[3]</a></sup>。两年之间，从"亏7.7万亿"到"赚47.2万亿"，营业利润首次超过三星电子整体（三星全年预估约43.5万亿韩元）\[3\]\<sup><a id="fnref-4-1" href="#fn4" aria-label="查看注释 4">[4]</a></sup>。</p>
+<p id="PAR7NFL" class="reveal">真正把"反转"推向极致的，是2026年第一季度。该季营收52.58万亿韩元（同比+198%、环比+60%），营业利润37.61万亿韩元，营业利润率72%——这是半导体制造史上单季最高的营业利润率，甚至超过了英伟达同期的65%\[17\]\<sup><a id="fnref-20-5" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。净利率77%，EBITDA利润率79%；季末现金54.3万亿，净现金35万亿\<sup><a id="fnref-17-1" href="#fn17" aria-label="查看注释 17">[17]</a></sup>。一个季度赚的，已接近2025全年净利润的四成。公司自己说，客户未来三年的HBM需求"已经超出公司规划产能"\<sup><a id="fnref-17-2" href="#fn17" aria-label="查看注释 17">[17]</a></sup>。</p>
+<p id="PXD0QY7" class="reveal">但把盈利拆开看，里面有两层。一层是结构性的：HBM占DRAM营收的比重在2024年第四季度就已超过40%，2025年HBM营收达约30万亿韩元、占整体营收约31%\[3\]\<sup><a id="fnref-21-1" href="#fn21" aria-label="查看注释 21">[21]</a></sup>。另一层是周期性的：2025年第四季度DRAM平均售价环比上涨20%以上、NAND上涨30%以上，传统存储的涨价同样贡献了利润</p>
+<figure class="report-chart report-chart--grouped-bar" data-visual-id="V02" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 02｜趋势</div>
+<h3 class="report-chart__title">五年营收翻倍有余：从 42 万亿到 97 万亿韩元</h3>
+<p class="report-chart__subtitle reveal">2021–2025 财年营收，单位：万亿韩元</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__grouped" style="--groups:5">
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">42.1</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:43.36%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2021</span>
+    </div>
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">44.6</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:45.93%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2022</span>
+    </div>
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">32.8</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:33.78%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2023</span>
+    </div>
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">66.2</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:68.18%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2024</span>
+    </div>
+<div class="report-chart__group report-chart__group--accent">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">97.1</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:100.00%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2025</span>
+    </div>
+</div>
+</div>
+
+<footer class="report-chart__footer">
+<p class="report-chart__note reveal">2026 年 Q1 单季营收 52.6 万亿韩元，已超过 2021 年全年。</p>
+<p class="report-chart__source reveal">来源：公司 2021–2025 年度财报；调查团队整理</p>
+</footer>
+</figure>
+<figure class="report-chart report-chart--metric-cards" data-visual-id="V03" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 03｜对比</div>
+<h3 class="report-chart__title">三年之间：从年亏 7.7 万亿到单季赚 37.6 万亿</h3>
+<p class="report-chart__subtitle reveal">2023 财年、2025 财年与 2026 年 Q1 营业利润，单位：万亿韩元</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__metric-cards" data-chart-animate="cards">
+<div class="report-chart__metric-card" style="--i:0">
+      <div class="report-chart__metric-line"><span class="report-chart__metric" data-chart-animate="count" data-value="-7.7" data-decimals="1">-7.7</span><span class="report-chart__metric-unit">万亿韩元</span></div>
+      <span class="report-chart__metric-label">2023 营业利润</span>
+      <span class="report-chart__metric-note">净亏损，周期谷底</span>
+    </div>
+<div class="report-chart__metric-card" style="--i:1">
+      <div class="report-chart__metric-line"><span class="report-chart__metric" data-chart-animate="count" data-value="47.2" data-decimals="1">47.2</span><span class="report-chart__metric-unit">万亿韩元</span></div>
+      <span class="report-chart__metric-label">2025 营业利润</span>
+      <span class="report-chart__metric-note">利润率 49%，首超三星</span>
+    </div>
+<div class="report-chart__metric-card" style="--i:2">
+      <div class="report-chart__metric-line"><span class="report-chart__metric" data-chart-animate="count" data-value="37.6" data-decimals="1">37.6</span><span class="report-chart__metric-unit">万亿韩元</span></div>
+      <span class="report-chart__metric-label">2026 Q1 营业利润</span>
+      <span class="report-chart__metric-note">利润率 72%，单季新高</span>
+    </div>
+</div>
+</div>
+
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：公司季度及年度财报；DigitalToday（2026-01）</p>
+</footer>
+</figure>
+<p id="PQ20UC8" class="reveal">\<sup><a id="fnref-15-1" href="#fn15" aria-label="查看注释 15">[15]</a></sup>。</p>
+<p id="PEIURA3" class="reveal">利润率的加速不止靠营收增长。从1Q25的42%爬到4Q25的58%，再到1Q26的72%，是一条陡峭的曲线\[2\]\[3\]\<sup><a id="fnref-17-3" href="#fn17" aria-label="查看注释 17">[17]</a></sup>。但KB证券与UBS注意到一个反常现象：2025–2026年部分通用DRAM产品的毛利率可能暂时超过HBM本身。理由是，HBM虽单价高，但底层die需走晶圆代工逻辑制程，堆叠封装良率风险大，成本也高\<sup><a id="fnref-18-1" href="#fn18" aria-label="查看注释 18">[18]</a></sup>。KB证券据此预估2026年三星营业利润82万亿、SK 74万亿韩元——三星凭借更高的通用DRAM占比，反而在利润上反超\<sup><a id="fnref-18-2" href="#fn18" aria-label="查看注释 18">[18]</a></sup>。SK和三星是全球DRAM市场直接排名前二的竞争对手：HBM让SK在利润率上领先，但三星凭借更大的通用DRAM体量，在利润总额上仍有优势。</p>
+<p id="PB7Z1YF" class="reveal">资本开支方面，2025年SK海力士投入30.17万亿韩元（占营收31.1%，同比+68%），2026年指引仍维持营收的三成中段<sup><a id="fnref-22-1" href="#fn22" aria-label="查看注释 22">[22]</a></sup>。这笔钱主要投向了清州M15X新厂、龙仁半导体集群和EUV光刻机采购（单向ASML就买了11.95万亿）<sup><a id="fnref-22-2" href="#fn22" aria-label="查看注释 22">[22]</a></sup>。换算成产能：2025年末DRAM晶圆月产能约54.5万片，其中走TSV的HBM专用约15万片（占28%）；2026年总产能预计升至约60万片/月<sup><a id="fnref-28-1" href="#fn28" aria-label="查看注释 28">[28]</a></sup>，即约10%的增扩。毛利率的斜率也给出参照：2023年-1.6%，2025年全年60.4%，2026年Q1冲到79.3%<sup><a id="fnref-21-2" href="#fn21" aria-label="查看注释 21">[21]</a></sup>——三年走出了一条从"亏本"到"暴利"的弧线。</p>
+<h2 class="reveal"><span class="chap-num">第3章</span>27%的营收来自一个客户</h2>
+<p id="PTO4FA3" class="reveal">2025年上半年，英伟达贡献了约10.89万亿韩元，占SK海力士上半年营收（39.87万亿韩元）的近27%<sup><a id="fnref-10-1" href="#fn10" aria-label="查看注释 10">[10]</a></sup>。2024年，这一比例还是16%；2023年，没有任何单一客户超过10%<sup><a id="fnref-10-2" href="#fn10" aria-label="查看注释 10">[10]</a></sup>。三年时间，单一客户依赖度从个位数蹿到近三成</p>
+<figure class="report-chart report-chart--grouped-bar" data-visual-id="V04" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 04｜趋势</div>
+<h3 class="report-chart__title">英伟达占营收比重三年升至 27%</h3>
+<p class="report-chart__subtitle reveal">2023–2025 上半年英伟达占 SK 海力士营收比例，单位：%（2023 年为不足 10% 的近似值）</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__grouped" style="--groups:3">
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">10</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:37.04%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2023</span>
+    </div>
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">16</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:59.26%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2024</span>
+    </div>
+<div class="report-chart__group report-chart__group--accent">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">27</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:100.00%"></div>
+      </div></div>
+      <span class="report-chart__group-label">2025H1</span>
+    </div>
+</div>
+</div>
+
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：公司 2025 年半年报；CloudNews 整理</p>
+</footer>
+</figure>
+<p id="P9HE" class="reveal">。</p>
+<p id="PQA3ZER" class="reveal">深度绑定英伟达给SK海力士带来了订单优先权和提前一到两年的需求可见度——产能连续多个季度宣告"售罄"<sup><a id="fnref-11-4" href="#fn11" aria-label="查看注释 11">[11]</a></sup>。但代价是把近三成营收和相当部分的HBM产能押在单一客户身上。在半导体行业，单一客户占比超过20%已属偏高；假设英伟达2026年资本开支放缓10%，粗略推算SK海力士营收直接承压约2.7个百分点——这还没算HBM长协锁死后无法转向的隐性成本。</p>
+<p id="PBFIY69" class="reveal">英伟达同时在做另一件事：推动三星和美光进入HBM供应商名单，降低对SK海力士的集中度。SK海力士也在拓宽客户基础——Amazon Trainium、Google TPU、Meta MTIA均采用HBM<sup><a id="fnref-11-5" href="#fn11" aria-label="查看注释 11">[11]</a></sup>。但从全球HBM需求看，2025年英伟达占68%，其余客户（含AMD、Intel和ASIC）合计32%<sup><a id="fnref-6-1" href="#fn6" aria-label="查看注释 6">[6]</a></sup>。按AI芯片出货量，Google TPU约150-200万枚、Amazon Trainium 2约140-150万枚，英伟达AI GPU约500-600万枚以上[野村]。ASIC的体量在增长，但以采购金额计，尚无法替代英伟达的位置。英伟达离不开SK的产能，SK也离不开英伟达的订单。</p>
+<p id="PEPTW6N" class="reveal">双方同时还在加深绑定。2026年6月，英伟达与SK集团签署多平台联盟，合作从Vera Rubin（GPU）扩展到Vera CPU、RTX Spark个人AI电脑、Jetson Thor机器人四大产品线<sup><a id="fnref-20-6" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。</p>
+<h2 class="reveal"><span class="chap-num">第4章</span>DRAM老二凭什么反超三星</h2>
+<p id="PRYCP1S" class="reveal">2025年第一季度，发生了一件四十多年来头一遭的事：按营收算，SK海力士以36.7%的份额首次超过三星电子的34%，登顶全球DRAM市场\<sup><a id="fnref-5-1" href="#fn5" aria-label="查看注释 5">[5]</a></sup>。到了全年，它的营业利润（47.2万亿韩元）也首次超过三星电子整体\[3\]\<sup><a id="fnref-4-2" href="#fn4" aria-label="查看注释 4">[4]</a></sup>。一家长期的"行业老二"，把"老大"挑落马下</p>
+<figure class="report-chart report-chart--line" data-visual-id="V05" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 05｜趋势</div>
+<h3 class="report-chart__title">一年反超：DRAM 份额四十多年来首次超过三星</h3>
+<p class="report-chart__subtitle reveal">2024 年初至 2025 年 Q1 全球 DRAM 营收份额，单位：%</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__line-wrap"><svg viewBox="0 0 640 300" role="img" aria-label="一年反超：DRAM 份额四十多年来首次超过三星">
+<line class="report-chart__grid" x1="46" y1="260.0" x2="616" y2="260.0"/><text class="report-chart__axis-y" x="38" y="263.5" text-anchor="end">30</text>
+<line class="report-chart__grid" x1="46" y1="181.3" x2="616" y2="181.3"/><text class="report-chart__axis-y" x="38" y="184.8" text-anchor="end">35</text>
+<line class="report-chart__grid" x1="46" y1="102.7" x2="616" y2="102.7"/><text class="report-chart__axis-y" x="38" y="106.2" text-anchor="end">40</text>
+<line class="report-chart__grid" x1="46" y1="24.0" x2="616" y2="24.0"/><text class="report-chart__axis-y" x="38" y="27.5" text-anchor="end">45</text>
+<text class="report-chart__axis-x" x="46.0" y="288" text-anchor="start">2024年初</text><text class="report-chart__axis-x" x="331.0" y="288" text-anchor="middle">2024年下半年</text><text class="report-chart__axis-x" x="616.0" y="288" text-anchor="end">2025年Q1</text>
+<g class="report-chart__line-path report-chart__line-path--accent"><path data-chart-animate="line" pathLength="100" d="M46.0 242.7 L331.0 156.2 L616.0 165.6"/><g class="report-chart__points"><circle class="report-chart__dot" cx="46.0" cy="242.7" r="4"/><text class="report-chart__point-value" x="46.0" y="232.7" text-anchor="middle">31.1</text><circle class="report-chart__dot" cx="331.0" cy="156.2" r="4"/><text class="report-chart__point-value" x="331.0" y="146.2" text-anchor="middle">36.6</text><circle class="report-chart__dot" cx="616.0" cy="165.6" r="4"/><text class="report-chart__point-value" x="616.0" y="155.6" text-anchor="middle">36</text></g></g>
+<g class="report-chart__line-path report-chart__line-path--muted"><path data-chart-animate="line" pathLength="100" d="M46.0 41.3 L331.0 113.7 L616.0 201.8"/><g class="report-chart__points"><circle class="report-chart__dot" cx="46.0" cy="41.3" r="4"/><text class="report-chart__point-value" x="46.0" y="31.3" text-anchor="middle">43.9</text><circle class="report-chart__dot" cx="331.0" cy="113.7" r="4"/><text class="report-chart__point-value" x="331.0" y="103.7" text-anchor="middle">39.3</text><circle class="report-chart__dot" cx="616.0" cy="201.8" r="4"/><text class="report-chart__point-value" x="616.0" y="191.8" text-anchor="middle">33.7</text></g></g>
+</svg></div>
+</div>
+<div class="report-chart__legend"><span class="report-chart__legend-item"><i class="report-chart__swatch report-chart__swatch--accent"></i>SK海力士</span><span class="report-chart__legend-item"><i class="report-chart__swatch report-chart__swatch--muted"></i>三星电子</span></div>
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：Counterpoint Research（经 21 世纪经济报道转引）</p>
+</footer>
+</figure>
+<p id="P9HE" class="reveal">。</p>
+<p id="P8N4GRS" class="reveal">反转的关键在HBM。在这个高价值战场上，SK海力士2025年拿下约55–61%的份额，三星约22%，美光约21%\[5\]\<sup><a id="fnref-12-3" href="#fn12" aria-label="查看注释 12">[12]</a></sup>。三星掉队，一个重要原因是其HBM3E 12层在2024年未能通过英伟达认证，直到2025年下半年才拿到许可——而SK海力士早在2024年下半年就已量产供货，独占英伟达HBM3E供应链约一年\<sup><a id="fnref-15-2" href="#fn15" aria-label="查看注释 15">[15]</a></sup>。"掉队"不是永远的，但SK海力士拿到了英伟达HBM供应链中独占近两年的定价权。HBM的单位比特价值是普通DRAM的4倍多（每Gb约1.47美元 vs 0.349美元）\<sup><a id="fnref-25-2" href="#fn25" aria-label="查看注释 25">[25]</a></sup>，正是这一小块高毛利业务占比飙升，让SK海力士用36.7%的DRAM份额撬动了远超份额比例的利润</p>
+<figure class="report-chart report-chart--ranked-bar" data-visual-id="V06" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 06｜排名</div>
+<h3 class="report-chart__title">HBM 市场：SK 海力士份额约等于二三名之和</h3>
+<p class="report-chart__subtitle reveal">2025 年 Q4 全球 HBM 市场营收份额，单位：%</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__ranked">
+<div class="report-chart__row report-chart__row--accent">
+      <span class="report-chart__row-label">SK海力士</span>
+      <div class="report-chart__track"><div class="report-chart__bar" data-chart-animate="bar-x" style="--chart-target:100.00%"></div></div>
+      <span class="report-chart__row-value">57%</span>
+    </div>
+<div class="report-chart__row">
+      <span class="report-chart__row-label">三星</span>
+      <div class="report-chart__track"><div class="report-chart__bar" data-chart-animate="bar-x" style="--chart-target:38.60%"></div></div>
+      <span class="report-chart__row-value">22%</span>
+    </div>
+<div class="report-chart__row">
+      <span class="report-chart__row-label">美光</span>
+      <div class="report-chart__track"><div class="report-chart__bar" data-chart-animate="bar-x" style="--chart-target:36.84%"></div></div>
+      <span class="report-chart__row-value">21%</span>
+    </div>
+</div>
+</div>
+
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：Counterpoint Research（4Q2025）</p>
+</footer>
+</figure>
+<p id="P9HE" class="reveal">。</p>
+<p id="PINOO9X" class="reveal">但领先能守多久，取决于竞争对手的追赶速度。在HBM4这一代，三星率先宣布了"全球首次量产出货"，凭借自研1c DRAM工艺与混合键合技术，绕开了对台积电的依赖\<sup><a id="fnref-24-4" href="#fn24" aria-label="查看注释 24">[24]</a></sup>。但"量产"不等于"通过英伟达认证"——三星的HBM4认证状态行业内消息不一：有报道称已通过测试获最高评分，也有报道指出正式供货合同尚未签署。同时三星是Google TPU（通过博通）的主要HBM供应商，HBM4出货可以面向非英伟达客户。美光在2026年GTC大会期间宣布HBM4量产供货，称其"为Vera Rubin设计"\<sup><a id="fnref-24-5" href="#fn24" aria-label="查看注释 24">[24]</a></sup>。SK海力士虽在2026年2月进入量产，出货节奏一度受英伟达设计变更牵制\[22\]\<sup><a id="fnref-24-6" href="#fn24" aria-label="查看注释 24">[24]</a></sup>。三家均具备HBM4量产能力，但谁拿到英伟达的正式认证订单决定利润分配——而非谁的产线先转起来。</p>
+<p id="PRV12K2" class="reveal">美光的财务更说明了赛跑的烈度。它在退出消费级存储、全面转向数据中心后，2026财年第三财季营收达415亿美元（同比+350%）、毛利率约86%<sup><a id="fnref-30-1" href="#fn30" aria-label="查看注释 30">[30]</a></sup>。当追赶者的利润池也大到这个量级，"代际领先"的红利会被快速摊薄</p>
+<figure class="report-chart report-chart--grouped-bar" data-visual-id="V07" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 07｜对比</div>
+<h3 class="report-chart__title">机构预估 2026 年 SK 份额回落至 49%</h3>
+<p class="report-chart__subtitle reveal">2024–2026 年三方 HBM 市场份额，2026 年为机构预估值，单位：%</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__grouped" style="--groups:3">
+<div class="report-chart__group report-chart__group--accent">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">48</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:84.21%"></div>
+      </div><div class="report-chart__col report-chart__col--s2">
+        <span class="report-chart__col-value">57</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:100.00%"></div>
+      </div><div class="report-chart__col report-chart__col--s3">
+        <span class="report-chart__col-value">49</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:85.96%"></div>
+      </div></div>
+      <span class="report-chart__group-label">SK海力士</span>
+    </div>
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">44</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:77.19%"></div>
+      </div><div class="report-chart__col report-chart__col--s2">
+        <span class="report-chart__col-value">23</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:40.35%"></div>
+      </div><div class="report-chart__col report-chart__col--s3">
+        <span class="report-chart__col-value">30</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:52.63%"></div>
+      </div></div>
+      <span class="report-chart__group-label">三星</span>
+    </div>
+<div class="report-chart__group">
+      <div class="report-chart__group-bars"><div class="report-chart__col report-chart__col--s1">
+        <span class="report-chart__col-value">8</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:14.04%"></div>
+      </div><div class="report-chart__col report-chart__col--s2">
+        <span class="report-chart__col-value">19</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:33.33%"></div>
+      </div><div class="report-chart__col report-chart__col--s3">
+        <span class="report-chart__col-value">22</span>
+        <div class="report-chart__col-bar" data-chart-animate="bar-y" style="--chart-target:38.60%"></div>
+      </div></div>
+      <span class="report-chart__group-label">美光</span>
+    </div>
+</div>
+</div>
+<div class="report-chart__legend"><span class="report-chart__legend-item"><i class="report-chart__swatch report-chart__swatch--s1"></i>2024</span><span class="report-chart__legend-item"><i class="report-chart__swatch report-chart__swatch--s2"></i>2025</span><span class="report-chart__legend-item"><i class="report-chart__swatch report-chart__swatch--s3"></i>2026E</span></div>
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：TrendForce 等机构统计与预估（2026 年为预测值）</p>
+</footer>
+</figure>
+<p id="P9HE" class="reveal">。</p>
+<p id="PD8UUCE" class="reveal">另一层结构性变化在于长协（长期采购协议）正在改写定价机制。三大存储器厂商与英伟达等头部客户的供货协议，通常提前一年锁定价格与数量。以SK海力士与英伟达的HBM4协议为例：双方敲定的单颗供应价为约560美元，较HBM3E的370美元上涨逾50%，同时约定了年度供货量<sup><a id="fnref-19-2" href="#fn19" aria-label="查看注释 19">[19]</a></sup>。这类长协的共性特征：价格与数量提前锁定，但产品规格和技术路线不受约束；价格通常高于同期标准品市场价——因HBM包含定制封装与认证成本——但低于纯现货市场的峰值溢价。三家厂商均与英伟达、AMD及云客户签有类似协议，正在将全球约一半的DRAM总产能定向锁定<sup><a id="fnref-20-7" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。长协的好处是利润可预测，代价是——一旦某类需求收缩、被长协锁定的产线难以灵活转向，下行时的风险同样被放大。若单方提前解约，通常需按协议承担违约赔偿，但具体条款未对外公开。</p>
+<h2 class="reveal"><span class="chap-num">第5章</span>无锡工厂的40%：地缘软肋</h2>
+<p id="PV05AGR" class="reveal">很少有人意识到：一家韩国公司的"命门"在江苏无锡。SK海力士在无锡的DRAM工厂约占其全球DRAM产量的40%；在大连通过子公司Solidigm运营的NAND工厂约占其全球NAND产量的40–45%\[7\]\<sup><a id="fnref-8-1" href="#fn8" aria-label="查看注释 8">[8]</a></sup>。它的中国工厂撑起了全球产出的将近一半</p>
+<figure class="report-chart report-chart--metric-cards" data-visual-id="V08" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 08｜对比</div>
+<h3 class="report-chart__title">命门在中国：四成产能与四分之一销售</h3>
+<p class="report-chart__subtitle reveal">产能为占公司自身产量比例（截至 2025 年）；销售占比为 2025 全年与 2026 年 Q1</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__metric-cards" data-chart-animate="cards">
+<div class="report-chart__metric-card" style="--i:0">
+      <div class="report-chart__metric-line"><span class="report-chart__metric" data-chart-animate="count" data-value="40" data-decimals="0">40</span><span class="report-chart__metric-unit">%</span></div>
+      <span class="report-chart__metric-label">无锡厂占公司 DRAM 产量</span>
+      <span class="report-chart__metric-note">被锁定在 1a 等成熟节点</span>
+    </div>
+<div class="report-chart__metric-card" style="--i:1">
+      <div class="report-chart__metric-line"><span class="report-chart__metric report-chart__metric--text">40–45%</span></div>
+      <span class="report-chart__metric-label">大连厂占公司 NAND 产量</span>
+      <span class="report-chart__metric-note">Solidigm，2021 年购自英特尔</span>
+    </div>
+<div class="report-chart__metric-card" style="--i:2">
+      <div class="report-chart__metric-line"><span class="report-chart__metric report-chart__metric--text">19.7%→24.3%</span></div>
+      <span class="report-chart__metric-label">中国销售占比</span>
+      <span class="report-chart__metric-note">2025 全年 → 2026 年 Q1，不降反升</span>
+    </div>
+</div>
+</div>
+
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：Blocks &amp; Files（2025-09）；KoreaInvestInsights（2026-07）</p>
+</footer>
+</figure>
+<p id="P9HE" class="reveal">。</p>
+<p id="PY48E50" class="reveal">这套中国布局不是一天建成的。无锡厂成立于2005年，大连NAND厂来自2021年90亿美元收购英特尔NAND业务\[9\]\<sup><a id="fnref-13-2" href="#fn13" aria-label="查看注释 13">[13]</a></sup>。2022年10月美国BIS新规首次冲击在华外资半导体厂\<sup><a id="fnref-16-1" href="#fn16" aria-label="查看注释 16">[16]</a></sup>；随后美方给予"验证最终用户"（VEU）豁免；到2025年8月，美国撤销了这一豁免，120天后生效，改为逐案年度审批\<sup><a id="fnref-9-1" href="#fn9" aria-label="查看注释 9">[9]</a></sup>。无锡厂可以继续在现有1a等成熟节点上跑、维持出货，但不能向1b、1c等更先进制程转换，也不能新建产能\<sup><a id="fnref-8-2" href="#fn8" aria-label="查看注释 8">[8]</a></sup>。当韩国本土推进先进制程时，被锁在成熟节点的中国工厂，成本与性能竞争力会慢慢流失。</p>
+<p id="PA8DIMW" class="reveal">与此同时，一个本土对手正在从另一端逼近。长鑫科技（CXMT）2026年以来营收同比暴增超7倍，净利率接近65%，全球DRAM份额可能已升至接近10%，在服务器与PC领域的国产化率突破30%<sup><a id="fnref-26-1" href="#fn26" aria-label="查看注释 26">[26]</a></sup>。而这些原本是SK海力士在中国最大的传统DRAM市场。但一个矛盾的数据是：SK海力士在华销售占比在1Q26回升到了24.3%，从2025年全年19.7%的低点反弹<sup><a id="fnref-26-2" href="#fn26" aria-label="查看注释 26">[26]</a></sup>——说明它并没有在减少中国敞口，反而中国市场的收入贡献在扩大。把三件事放在一起看，SK海力士的中国困境不是"被挤压"，而是一个更难解的三角：产能被锁在成熟节点上、本土竞争对手在崛起、但中国市场本身仍在增长且利润可观——退出既不情愿，留下又越来越难竞争。</p>
+<p id="PEZ0NY5" class="reveal">即便没有美中摩擦，把近一半全球产出压在单一国家，也会放大任何本土扰动的冲击。SK海力士的解法是向外扩：清州M15X、龙仁半导体集群、美国印第安纳先进封装厂陆续上马，只是远水难救近火，产能爬坡要以年计\[11\]\<sup><a id="fnref-22-3" href="#fn22" aria-label="查看注释 22">[22]</a></sup>。而美国工厂的单位产能成本高于韩中基地，区域重心西移必然抬高资本开支与运营复杂度\[8\]\<sup><a id="fnref-26-3" href="#fn26" aria-label="查看注释 26">[26]</a></sup>。</p>
+<h2 class="reveal"><span class="chap-num">第6章</span>十年冷板凳</h2>
+<p id="PCY99X2" class="reveal">SK海力士的翻盘，不是2023年AI爆发一夜之间的运气，而是一场提前十年的下注。</p>
+<p id="PDDD93Q" class="reveal">它的根子是现代集团1983年创立的现代电子；2001年更名为海力士；2003年跌到每股135韩元、负债率206%的谷底，靠债权人托管才活下来<sup><a id="fnref-13-3" href="#fn13" aria-label="查看注释 13">[13]</a></sup>。2012年，当大多数人认定"存储是无底洞"时，SK集团会长崔泰源以约30亿美元收购海力士21.05%股权<sup><a id="fnref-13-4" href="#fn13" aria-label="查看注释 13">[13]</a></sup>。当时它被嘲讽"钱多烧得慌"。但崔泰源的赌注很清晰：在普通DRAM上永远追不上三星，不如押注当时小众、高难度、长期亏损的HBM<sup><a id="fnref-12-4" href="#fn12" aria-label="查看注释 12">[12]</a></sup>。</p>
+<p id="PRU4BVH" class="reveal">这一押就是十年。HBM业务在大约2013年至2020年间都难言盈利，营收微薄，无数次有人提议砍掉止损，SK海力士却持续投入TSV堆叠等核心技术\[12\]\<sup><a id="fnref-13-5" href="#fn13" aria-label="查看注释 13">[13]</a></sup>。等到2023年ChatGPT引爆大模型、传统DRAM带宽不够用，HBM成了GPU的刚需，十年的冷板凳一下子兑现成全球最厚的红利。</p>
+<p id="PG3WZBK" class="reveal">技术上的领先是一步步堆出来的。从HBM3（2023）到12层HBM3E（2024）再到HBM4（2026年2月量产），代际之间隔着工艺、良率与封装的硬功夫\[11\]\<sup><a id="fnref-24-7" href="#fn24" aria-label="查看注释 24">[24]</a></sup>。到HBM4，基底芯片不再用传统DRAM制程，而是改走台积电12nm逻辑节点，把内存控制器、调度与功耗管理集成进去，让HBM从"被动存储"变成"带逻辑的智能内存"\<sup><a id="fnref-20-8" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。在此之上，SK海力士进一步推出定制HBM（cHBM），按客户的AI芯片与负载反向优化封装\<sup><a id="fnref-25-3" href="#fn25" aria-label="查看注释 25">[25]</a></sup>。英伟达CEO黄仁勋在2026年Computex展会上，曾在一片HBM4E晶圆上写下"Please Make More</p>
+<figure class="report-chart report-chart--timeline" data-visual-id="V09" data-visual-status="approved-for-render">
+<figcaption class="report-chart__header">
+<div class="report-chart__eyebrow">图 09｜时间线</div>
+<h3 class="report-chart__title">每一代 HBM 都比对手早 12–18 个月</h3>
+<p class="report-chart__subtitle reveal">2023–2026 年 HBM 代际量产节奏</p>
+</figcaption>
+<div class="report-chart__plot">
+<div class="report-chart__timeline" data-chart-animate="timeline"><span class="report-chart__tl-axis"></span>
+<div class="report-chart__tl-item" style="--i:0">
+    <span class="report-chart__tl-dot"></span>
+    <span class="report-chart__tl-date">2023</span>
+    <div class="report-chart__tl-body"><b class="report-chart__tl-label">HBM3 量产</b><span class="report-chart__tl-detail">全球率先量产，打入英伟达供应链</span></div>
+  </div>
+<div class="report-chart__tl-item" style="--i:1">
+    <span class="report-chart__tl-dot"></span>
+    <span class="report-chart__tl-date">2024</span>
+    <div class="report-chart__tl-body"><b class="report-chart__tl-label">12 层 HBM3E</b><span class="report-chart__tl-detail">全球率先量产，独供英伟达约一年</span></div>
+  </div>
+<div class="report-chart__tl-item" style="--i:2">
+    <span class="report-chart__tl-dot"></span>
+    <span class="report-chart__tl-date">2025.09</span>
+    <div class="report-chart__tl-body"><b class="report-chart__tl-label">HBM4 量产准备</b><span class="report-chart__tl-detail">全球率先完成量产准备</span></div>
+  </div>
+<div class="report-chart__tl-item" style="--i:3">
+    <span class="report-chart__tl-dot"></span>
+    <span class="report-chart__tl-date">2026.02</span>
+    <div class="report-chart__tl-body"><b class="report-chart__tl-label">HBM4 量产</b><span class="report-chart__tl-detail">率先量产，供货 Vera Rubin 平台</span></div>
+  </div>
+<div class="report-chart__tl-item" style="--i:4">
+    <span class="report-chart__tl-dot"></span>
+    <span class="report-chart__tl-date">2026→</span>
+    <div class="report-chart__tl-body"><b class="report-chart__tl-label">cHBM / HBM4E</b><span class="report-chart__tl-detail">推进定制内存与下一代产品</span></div>
+  </div>
+</div>
+</div>
+
+<footer class="report-chart__footer">
+
+<p class="report-chart__source reveal">来源：SK hynix Newsroom；TrendForce</p>
+</footer>
+</figure>
+<p id="PO8B1B0" class="reveal">"\<sup><a id="fnref-20-9" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。</p>
+<p id="PCMMHE8" class="reveal">这场十年下注能扛住，靠的是两层力量。一是SK集团层面的战略定力：被纳入SK阵营后，海力士有了母公司的长期信用背书，敢于在HBM这种多年不盈利的业务上持续投入，而不必像独立上市公司那样每个季度向市场交代<sup><a id="fnref-13-6" href="#fn13" aria-label="查看注释 13">[13]</a></sup>。二是真金白银的投入：2025年资本开支30.17万亿韩元（同比+68%），并规划到2030年前投入龙仁半导体集群等合计1,100万亿韩元的长期扩产<sup><a id="fnref-22-4" href="#fn22" aria-label="查看注释 22">[22]</a></sup>。</p>
+<p id="P98WARE" class="reveal">一个少有人注意的细节：SK海力士正在用英伟达自己的AI来设计供给英伟达的芯片。双方合作中，SK采用英伟达的CUDA-X、PhysicsNeMo与cuLitho等GPU加速工具做TCAD与计算光刻仿真，把原本需数周的仿真压缩到毫秒级<sup><a id="fnref-20-10" href="#fn20" aria-label="查看注释 20">[20]</a></sup>。这种"用客户的工具造客户的货"的递归工程循环，把两家公司焊得更紧。</p>
+<section class="epilogue shared-epilogue reveal"><h2 class="reveal"><span class="chap-num">尾声</span>尾声</h2>
+<p id="POOIKG3" class="reveal">回到2003年那只跌到每股135韩元的股票。那一年，海力士负债140亿美元，负债率206%，被债权人托管，工程师在老旧的8英寸产线上手工优化工艺<sup><a id="fnref-13-7" href="#fn13" aria-label="查看注释 13">[13]</a></sup>。没有人想到二十多年后，这家公司会成为英伟达不可或缺的一环，市值站上1万亿美元，又跨过纳斯达克敲响上市的钟<sup><a id="fnref-23-2" href="#fn23" aria-label="查看注释 23">[23]</a></sup>。</p>
+<p id="PLR4YAX" class="reveal">它做的事，本质上是"记忆"二字：生产的，是给机器存数据的内存；翻盘的，是它记住并在最没人看好的时候坚持了十年的HBM赌注。能不能守住这个位置，取决于它还记不记得自己是怎么从那个距离破产一步之遥的地方爬上来的。</p></section>
+5:["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":""}}],["$","$L10",null,{"readingTime":"阅读约 10 分钟","chapters":[{"id":"report-top","label":"导语"},{"id":"第一章-一家-二线存储器厂-如何卡住了ai的脖子","label":"第1章"},{"id":"第二章-从-7-7万亿到单季37-6万亿","label":"第2章"},{"id":"第三章-27-的营收来自一个客户","label":"第3章"},{"id":"第四章-dram老二凭什么反超三星","label":"第4章"},{"id":"第五章-无锡工厂的40-地缘软肋","label":"第5章"},{"id":"第六章-十年冷板凳","label":"第6章"},{"id":"epilogue","label":"尾声"}],"preview":true}],["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":[["$","b",null,{"children":"公司"}],["$","span",null,{"children":"调查对象"}],[]]}],["$","h1",null,{"children":"SK海力士：从每股135韩元到1万亿美元，一家韩国芯片公司的翻盘"}],"","",["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月28日"," · ","阅读约 10 分钟"]}]]}]]}],["$","aside",null,{"className":"preview-review-panel","aria-labelledby":"preview-review-title","children":[["$","div",null,{"className":"preview-review-head","children":[["$","span",null,{"children":"试读 · 等待分析师确认"}],["$","$L11",null,{"href":"/preview","children":"← 返回试读列表"}]]}],["$","h2",null,{"id":"preview-review-title","children":"试读后需要确认的问题"}],["$","p",null,{"children":"以下集中列出待确认判断、尚不确定的内容及可能存在的问题。除本框外，文章按正式报道效果渲染。"}],["$","p",null,{"className":"preview-review-empty","children":"当前没有待确认问题。"}]]}],["$","article",null,{"className":"published-article-body","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13","$L14","$L15"]}]
+17:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+16:T306b,<section data-article-notes><h3>注释与资料来源</h3><ol>
+<li id="fn1">SK hynix Announces 4Q24 and FY2024 Financial Results（2025-01-23），FY2024 营收 66.19 万亿韩元、营业利润 23.47 万亿韩元、净利润 19.80 万亿韩元；FY2023 营收 32.77 万亿韩元、营业利润 -7.73 万亿韩元。<https://news.skhynix.com/sk-hynix-announces-4q24-financial-results><a class="footnote-backref" href="#fnref-1-1" aria-label="返回正文">↩</a></li>
+<li id="fn2">SK hynix Announces 1Q25 Financial Results（2025-04-24），营收 17.64 万亿韩元、营业利润 7.44 万亿韩元、营业利润率 42%。<https://news.skhynix.com/sk-hynix-announces-1q25-financial-results/><a class="footnote-backref" href="#fnref-2-1" aria-label="返回正文">↩</a></li>
+<li id="fn3">SK hynix Announces FY2025 Financial Results（2026-01-28），营收 97.15 万亿韩元、营业利润 47.21 万亿韩元（同比 +101%）、净利润 42.95 万亿韩元、营业利润率 49%；4Q25 营业利润率 58%。<https://news.skhynix.com/sk-hynix-announces-fy25-financial-results><a class="footnote-backref" href="#fnref-3-1" aria-label="返回正文">↩</a></li>
+<li id="fn4">Yonhap（2026-01-28），SK 海力士 2025 年营业利润首次超过三星电子整体；公布当日市值 612 万亿韩元创新高。<https://m-en.yna.co.kr/view/AEN20260128009853320><a class="footnote-backref" href="#fnref-4-1" aria-label="返回正文">↩</a></li>
+<li id="fn5">Counterpoint Research（经 21 世纪经济报道、科创板日报转引，2025），1Q2025 SK 海力士以 36.7% 份额首超三星（34%）登顶全球 DRAM 市场；1Q2025 SK 占 HBM 约 70%（按营收），4Q2025 HBM 份额 SK 57% / 三星 22% / 美光 21%。<https://stcn.com/article/detail/2740249.html><a class="footnote-backref" href="#fnref-5-1" aria-label="返回正文">↩</a></li>
+<li id="fn6">inSpectrum / TrendForce（经 technowvoice 转引），HBM 市占 2024 = 三星44% / SK48% / 美光8%，2025 = SK57% / 三星23% / 美光19%，2026 预估 = SK49% / 三星30% / 美光22%；英伟达占全球 HBM 需求 2024 年 64%、2025 年 68%、2026 年降至 49%。<https://technowvoice.com/article_detail/Nvidia%E6%98%8E%E5%B9%B4HBM%E4%BD%9C%E6%AF%94%E4%B8%8D%E8%B6%B4><a class="footnote-backref" href="#fnref-6-1" aria-label="返回正文">↩</a></li>
+<li id="fn7">TrendForce（2025-12-30），SK 海力士约 30–35% 的 DRAM 产出来自中国、40–45% 的 NAND 产出来自中国；美国 VEU 授权 2025-12-31 到期，转为年度审查制。<https://www.trendforce.com/news/2025/12/30/news-samsung-sk-hynix-escape-worst-case-as-china-veu-ends-annual-review-risks-loom><a class="footnote-backref" href="#fnref-7-1" aria-label="返回正文">↩</a></li>
+<li id="fn8">Blocks & Files（2025-09-01），无锡 DRAM 厂约占 SK 海力士全球 DRAM 产量 40%，大连（Solidigm）NAND 约占其 NAND 总产能 1/5；美国禁止用美系设备在华扩产或升级。<https://www.blocksandfiles.com/flash/2025/09/01/us-clamps-down-on-samsung-sk-hynix-fabs-in-china/1605600><a class="footnote-backref" href="#fnref-8-1" aria-label="返回正文">↩</a></li>
+<li id="fn9">中国经营网 / 新浪财经（2025-08-30），美国撤销三星、SK 海力士在华 VEU 豁免，120 天后生效；无锡厂成立于 2005 年、大连 NAND 厂来自 2021 年 90 亿美元收购英特尔 NAND 业务。<https://finance.sina.cn/2025-08-30/detail-infntzyh1613663.d.html><a class="footnote-backref" href="#fnref-9-1" aria-label="返回正文">↩</a></li>
+<li id="fn10">CloudNews（2025），据 2025 年半年报，英伟达贡献约 10.89 万亿韩元，占上半年营收 39.87 万亿韩元的近 27%；2024 年英伟达占比为 16%。<https://cloudnews.tech/nvidia-accounts-for-27-of-sk-hynixs-revenue-in-2025-and-solidifies-its-hbm-market-dominance/><a class="footnote-backref" href="#fnref-10-1" aria-label="返回正文">↩</a></li>
+<li id="fn11">SK hynix Newsroom（2025），12 层 HBM3E 量产、HBM4 于 2025 年 3 月送样、9 月完成量产准备；新客户含 Amazon、Google、Meta（ASIC）；清州 M15X、龙仁半导体集群、美国印第安纳先进封装厂在建。<https://news.skhynix.com/exploring-the-ai-ecosystem-how-sk-hynixs-industry-leading-memory-fuels-ai-innovation><a class="footnote-backref" href="#fnref-11-1" aria-label="返回正文">↩</a></li>
+<li id="fn12">ChannelNewsAsia（2026-07-10），2026-07-10 纳斯达克上市募资约 265 亿美元，为外资企业在美最大 IPO；2026 年 6 月市值突破 1 万亿美元、超越三星成为韩国市值第一；2025 年 HBM 市占约 61%。<https://channelnewsasia.com/east-asia/sk-hynix-story-record-us-listing-ai-chips-6245921><a class="footnote-backref" href="#fnref-12-1" aria-label="返回正文">↩</a></li>
+<li id="fn13">澎湃新闻 / corpdigest（2026），1983 年现代电子创立；2001 年更名海力士；2003 年股价最低 135 韩元、负债率 206%、负债约 140 亿美元；2012 年 SK 集团以约 30 亿美元收购 21.05% 股权；2021 年 90 亿美元收购英特尔 NAND 业务（Solidigm）。<https://m.thepaper.cn/newsDetail_forward_33255286><a class="footnote-backref" href="#fnref-13-1" aria-label="返回正文">↩</a></li>
+<li id="fn14">Morningstar（2026），DRAM 约占总营收 60–70%、NAND 30–35%；2024 年 DRAM 份额 33%、NAND 份额 21%；最大股东为 SK Square（约 20%）。<https://www.morningstar.com/stocks/xkrx/000660/quote><a class="footnote-backref" href="#fnref-14-1" aria-label="返回正文">↩</a></li>
+<li id="fn15">DigitalToday（2026-01-29），4Q25 DRAM 均价环比涨 20%+、NAND 均价环比涨 30%+；2026 年 Capex/营收 控制在 30% 中段；年末现金 34.9 万亿韩元、借款比率 18%、转净现金。<https://www.digitaltoday.co.kr/cn/view/32266/sk-hynix-says-2025-operating-profit-doubles-on-hbm-sales-surge><a class="footnote-backref" href="#fnref-15-1" aria-label="返回正文">↩</a></li>
+<li id="fn16">经济观察网（2022-10-27），无锡、重庆、大连建有工厂；美国 BIS 2022 年 10 月新规冲击在华外资半导体厂。<https://www.eeo.com.cn/2022/1027/564317.shtml><a class="footnote-backref" href="#fnref-16-1" aria-label="返回正文">↩</a></li>
+<li id="fn17">SK hynix Announces 1Q26 Financial Results（2026-04-23），营收 52.58 万亿韩元（同比 +198%）、营业利润 37.61 万亿韩元、营业利润率 72%、净利润 40.35 万亿韩元；季末现金 54.3 万亿、净现金 35 万亿；DRAM 占营收 78%、NAND 21%；管理层称未来三年 HBM 需求已超规划产能。<https://news.skhynix.com/q1-2026-busi><a class="footnote-backref" href="#fnref-17-1" aria-label="返回正文">↩</a></li>
+<li id="fn18">ChosunBiz / DRAMeXchange（2025-12-16），通用 DRAM 单价升至约 12–13 美元/GB，HBM4 估约 15 美元/GB，差距收窄；UBS 称通用 DRAM 毛利率 2025–26 或暂时超过 HBM；KB 证券预估 2026 年三星营业利润 82 万亿、SK 74 万亿韩元。<https://www.chosun.com/english/industry-en/2025/12/16/BWRKOFTLEFGLBMT2AL43MCBRAMA/><a class="footnote-backref" href="#fnref-18-1" aria-label="返回正文">↩</a></li>
+<li id="fn19">BusinessKorea / 界面新闻（2025-11-06），HBM4 供应价较 HBM3E 涨 50%+，单颗约 560 美元（HBM3E 约 370 美元）；HBM4 接口位宽 2048（HBM3E 为 1024）；基底芯片外包台积电。<https://www.163.com/dy/article/KDMGV14V0534A4SC.html><a class="footnote-backref" href="#fnref-19-1" aria-label="返回正文">↩</a></li>
+<li id="fn20">TechTimes（2026-07-07），每 GB HBM 约耗 3 倍于 DDR5 的晶圆产能，消费级 DRAM 四年涨约 700%；HBM4 基底芯片改走台积电 12nm 逻辑节点；Rubin 平台 SK 占 HBM4 约 60–70%；黄仁勋在 HBM4E 晶圆写"Please Make More"；Q1 2026 营业利润率 72% 超英伟达 65%。<https://www.techtimes.com/articles/319824/20260707/sk-hynix-launches-record-28b-nasdaq-listing-hbm-shortage-locks-ai-memory-lead.htm><a class="footnote-backref" href="#fnref-20-1" aria-label="返回正文">↩</a></li>
+<li id="fn21">SiliconReport（IPO 招股书），HBM 营收占比从 2022 年 <5% 升至 1H2026 >40%；毛利率 Q1 2026 为 79.3%（FY2025 为 60.4%、2023 年为 -1.6%）；1H2026 中国占销售 29.8%；BofA 估 2026 年 HBM 市场 546 亿美元（+58%）。<https://www.siliconreport.com/sk-hynix-filing-reveals-hbm-fuels-79-margins-ahead-of-28b-ipo-e3646896><a class="footnote-backref" href="#fnref-21-1" aria-label="返回正文">↩</a></li>
+<li id="fn22">ChosunBiz（2026-04-02），FY2025 资本开支 30.17 万亿韩元（占营收 31.1%、同比 +68%），Q4 单季 12.35 万亿；向 ASML 采购 EUV 11.95 万亿；龙仁集群 Phase1 总投资升至 31 万亿、长期规划 1,100 万亿；CEO 称目标净现金超 100 万亿。<https://biz.chosun.com/en/en-it/2026/04/02/6JOUH2X7XVEG7LNJFEUD2HGCQU/><a class="footnote-backref" href="#fnref-22-1" aria-label="返回正文">↩</a></li>
+<li id="fn23">Nasdaq（2026-07-10），177.9 万份 ADR、每股 149 美元、募资约 265 亿美元、超购约 7 倍、首日开盘 168–170 美元（+13%）、代码 SKHY、每 ADR 代表 1/10 股；韩国股价半年 +174%、一年 +634%；TTM 市盈率 20.6x、远期 7.5x；有望纳入 SOX / 纳斯达克100。<https://www.nasdaq.com/articles/sk-hynix-surges-blockbuster-us-market-debut-etfs-focus><a class="footnote-backref" href="#fnref-23-1" aria-label="返回正文">↩</a></li>
+<li id="fn24">TrendForce / 财联社（2026），三星率先宣布 HBM4 量产出货（1c DRAM + 混合键合 + 自研 4nm 逻辑芯片）；美光于 GTC 2026 宣布 HBM4 量产供货、称"为 Vera Rubin 设计"；SK 海力士 2026 年 2 月进入量产，出货受英伟达设计变更影响。<https://www.trendforce.com/news/2025/09/17/news-hbm-market-heats-up-as-three-giants-clash-with-hbm4-at-the-center><a class="footnote-backref" href="#fnref-24-1" aria-label="返回正文">↩</a></li>
+<li id="fn25">Korea Investment / SK hynix Newsroom，HBM 每 Gb 均价约 1.47 美元、DRAM 仅 0.349 美元（约 4.2 倍）；HBM4E 单引脚 16 Gbps、能效较 HBM4 高 37%、单栈带宽约 4 TB/s；cHBM 按客户芯片定制基底芯片与封装。<https://news.skhynix.com/hbm-to-essd/><a class="footnote-backref" href="#fnref-25-1" aria-label="返回正文">↩</a></li>
+<li id="fn26">KoreaInvestInsights / 腾讯新闻（2026），中国销售子公司占比 2023 年 30.9% → 2024 年 23.5% → 2025 年 19.7% → 1Q26 24.3%；长鑫科技（CXMT）全球 DRAM 份额约 10%、营收同比增 7 倍，国产化率破 30%。<https://koreainvestinsights.com/post/china-memory-localization-exposure-samsung-hynix-micron-2026-07-18><a class="footnote-backref" href="#fnref-26-1" aria-label="返回正文">↩</a></li>
+<li id="fn27">Ainvest（2026-06），受先进晶圆与 CoWoS 封装限制，HBM 相关晶圆缺口或持续至 2030 年、约 20%；UBS 估 SK 占英伟达 Rubin 平台 HBM4 约 70%；ADR 计划 2026 年 8 月。<https://www.ainvest.com/news/sk-hynix-hits-1-trillion-20-wafer-shortage-2030-real-story-2606><a class="footnote-backref" href="#fnref-27-1" aria-label="返回正文">↩</a></li>
+<li id="fn28">Juhyun Equity Research（2026），员工约 33,625 人；DRAM 晶圆产能 2025 年末 54.5 万片/月、2026 年约 60 万片/月；HBM（TSV）晶圆 15 万片/月（占 DRAM 28%）；基地分布于利川、清州、无锡、大连、印第安纳。<https://juhyungequityresearch.com/skhynix_equityresearch_2026_en><a class="footnote-backref" href="#fnref-28-1" aria-label="返回正文">↩</a></li>
+<li id="fn29">SK hynix 第 78 届股东大会（2026-03-25），CEO 郭鲁正称"连续两年创纪录"；2026 年股东回报 14.3 万亿韩元；推进 Full Stack AI Memory、cHBM、HBM4E。<https://news.skhynix.com/en/78th-annual-general-meeting/><a class="footnote-backref" href="#fnref-29-1" aria-label="返回正文">↩</a></li>
+<li id="fn30">Nasdaq（2026），美光 2026 财年第三财季营收 415 亿美元（同比 +350%）、指引第四财季约 500 亿美元、毛利率约 86%；已于 2025 年 12 月退出消费级存储、全面转向数据中心。<https://www.nasdaq.com/articles/sk-hynix-just-raised-265-billion-biggest-us-ipo-ever-foreign-company-heres-what-it-signals><a class="footnote-backref" href="#fnref-30-1" aria-label="返回正文">↩</a></li>
+</ol></section>13:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$16"}}]
+14:["$","$L17",null,{}]
+15:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"深度调查档案室 · The Investigative Desk"}],["$","meta","1",{"name":"description","content":"基于公开信息、事实核验与独立研究形成的深度报道档案室。"}]]
