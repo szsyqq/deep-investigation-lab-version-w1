@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
-e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
+b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 2:T4caf,
@@ -251,9 +251,9 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   .reading-time-fab{top:12px;right:12px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TPGrApnGNldOhnwI32wN8"}
-3:["$","$Lb",null,{"readingTime":"约 21 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c1","label":"第一章148天：预先审阅的速度"},{"id":"c2","label":"第二章追问收入：谁在买这些内存？"},{"id":"c3","label":"第三章追问利润：330亿是怎么赚到的？"},{"id":"c4","label":"第四章追问技术：17nm与10nm之间"},{"id":"c5","label":"第五章追问壁垒：研发33%背后的\"绕路\""},{"id":"c6","label":"第六章追问资本：295亿，以及它背后的\"耐心钱\""},{"id":"c7","label":"第七章追问风险：三道关"},{"id":"c8","label":"第八章招股书之外"},{"id":"c9","label":"尾声：周期退潮，才是真的开始"}],"status":"published"}]
-4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"技术"}],["$","span",null,{"children":"长鑫科技"}],[["$","span","半导体",{"children":"半导体"}],["$","span","DRAM",{"children":"DRAM"}],["$","span","IPO",{"children":"IPO"}]]]}],["$","h1",null,{"children":"长鑫科技：在存储涨价周期顶端，一家国产DRAM厂的账本与代差"}],"$undefined",["$","p",null,{"children":"DRAM价格在2025-2026年进入新一轮上行周期，长鑫科技营收突破300亿元、首次实现全年盈利。但技术节点仍落后三星、SK海力士两代以上，产能仅为行业龙头的十分之一。在存储涨价周期的顶端递交IPO申请，长鑫的账本里，有多少是周期红利，多少是真正的竞争力？"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月18日"," · ","约 21 分钟阅读"]}]]}]]}]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Sq6pLbqDd48GgsnEXVA-M"}
+3:["$","$Lb",null,{"readingTime":"约 21 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c1","label":"第一章148天：预先审阅的速度"},{"id":"c2","label":"第二章追问收入：谁在买这些内存？"},{"id":"c3","label":"第三章追问利润：330亿是怎么赚到的？"},{"id":"c4","label":"第四章追问技术：17nm与10nm之间"},{"id":"c5","label":"第五章追问壁垒：研发33%背后的\"绕路\""},{"id":"c6","label":"第六章追问资本：295亿，以及它背后的\"耐心钱\""},{"id":"c7","label":"第七章追问风险：三道关"},{"id":"c8","label":"第八章招股书之外"},{"id":"c9","label":"尾声：周期退潮，才是真的开始"}]}]
+4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"技术"}],["$","span",null,{"children":"长鑫科技"}],[["$","span","半导体",{"children":"半导体"}],["$","span","DRAM",{"children":"DRAM"}],["$","span","IPO",{"children":"IPO"}]]]}],"$undefined",["$","h1",null,{"children":"长鑫科技：在存储涨价周期顶端，一家国产DRAM厂的账本与代差"}],"$undefined",["$","p",null,{"children":"DRAM价格在2025-2026年进入新一轮上行周期，长鑫科技营收突破300亿元、首次实现全年盈利。但技术节点仍落后三星、SK海力士两代以上，产能仅为行业龙头的十分之一。在存储涨价周期的顶端递交IPO申请，长鑫的账本里，有多少是周期红利，多少是真正的竞争力？"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月18日"," · ","约 21 分钟阅读"]}]]}]]}]
 c:T8f90,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
 <p class="drop-cap reveal">合肥新桥机场工业园区，一座晶圆厂的洁净车间里，硅片在光刻、刻蚀、薄膜沉积之间往返。这里生产的不是逻辑芯片，而是另一种更古老、也更基础的 memory——<span class="term">DRAM</span>，动态随机存取存储器，你手机、电脑、服务器里那颗"记忆芯片"。十年前，中国大陆的DRAM自给率接近于零；今天，这座园区和它在北京的兄弟工厂，让中国坐上了全球第四把交椅。</p>
 
@@ -520,6 +520,6 @@ d:T1b70,<div class="footnotes">
 </div>6:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$d"}}]
 7:["$","$Le",null,{}]
 8:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
-9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js","async":true}]
+9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null

@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
-e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
+b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 2:T3efb,
@@ -199,9 +199,9 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   footer{font-size:11px;padding:20px 0 40px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TPGrApnGNldOhnwI32wN8"}
-3:["$","$Lb",null,{"readingTime":"约 16 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"chap1","label":"第一章从\"被接管\"到\"央企系\""},{"id":"chap2","label":"第二章规模掉队：24年没爬过的山"},{"id":"chap3","label":"第三章22亿管理费，50亿亏损"},{"id":"chap4","label":"第四章走马灯式的高管更迭"},{"id":"chap5","label":"第五章明星基金经理的滑铁卢"},{"id":"chap6","label":"第六章债券\"偏科\"的结构之困"},{"id":"chap7","label":"第七章央企拼图，拼上了吗"}],"status":"beta"}]
-4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",["$","span",null,{"className":"article-status-badge beta","children":"公开试读"}],["$","b",null,{"children":"资本"}],["$","span",null,{"children":"融通基金"}],[["$","span","公募基金",{"children":"公募基金"}],["$","span","央企",{"children":"央企"}],["$","span","投研",{"children":"投研"}]]]}],["$","h1",null,{"children":"\"老十三\"的二次创业：融通基金的央企转型账本"}],"$undefined",["$","p",null,{"children":"成立于2001年，国内第13家公募基金公司，2022年被央企诚通集团收入麾下。三年过去，管理规模仍未突破历史峰值，14位基金经理相继离职，持有人累计亏损近50亿元——这场\"二次创业\"走到哪了？22亿管理费与50亿亏损的\"剪刀差\"、走马灯式的高管更迭、明星基金经理的2026Q2滑铁卢，背后是一家\"老牌\"基金公司深层的结构性困局。"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月23日"," · ","约 16 分钟阅读"]}]]}]]}]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Sq6pLbqDd48GgsnEXVA-M"}
+3:["$","$Lb",null,{"readingTime":"约 16 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"chap1","label":"第一章从\"被接管\"到\"央企系\""},{"id":"chap2","label":"第二章规模掉队：24年没爬过的山"},{"id":"chap3","label":"第三章22亿管理费，50亿亏损"},{"id":"chap4","label":"第四章走马灯式的高管更迭"},{"id":"chap5","label":"第五章明星基金经理的滑铁卢"},{"id":"chap6","label":"第六章债券\"偏科\"的结构之困"},{"id":"chap7","label":"第七章央企拼图，拼上了吗"}]}]
+4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",["$","span",null,{"className":"article-status-badge beta","children":"公开试读"}],["$","b",null,{"children":"资本"}],["$","span",null,{"children":"融通基金"}],[["$","span","公募基金",{"children":"公募基金"}],["$","span","央企",{"children":"央企"}],["$","span","投研",{"children":"投研"}]]]}],["$","div",null,{"className":"shared-trial-notice","children":[["$","b",null,{"children":"公开试读"}],["$","span",null,{"children":"内容可能尚未经过分析师的完整逻辑分析，主体与内容或将调整"}]]}],["$","h1",null,{"children":"\"老十三\"的二次创业：融通基金的央企转型账本"}],"$undefined",["$","p",null,{"children":"成立于2001年，国内第13家公募基金公司，2022年被央企诚通集团收入麾下。三年过去，管理规模仍未突破历史峰值，14位基金经理相继离职，持有人累计亏损近50亿元——这场\"二次创业\"走到哪了？22亿管理费与50亿亏损的\"剪刀差\"、走马灯式的高管更迭、明星基金经理的2026Q2滑铁卢，背后是一家\"老牌\"基金公司深层的结构性困局。"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月23日"," · ","约 16 分钟阅读"]}]]}]]}]
 c:T90fe,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
 <p class="drop-cap reveal">2001年5月，深圳南山区，融通基金管理有限公司拿到了国内第13张公募基金牌照。同一年拿到批文的，还有一家名叫易方达的公司——彼时，谁也没想到24年后两家公司会走上截然不同的道路。</p>
 
@@ -538,6 +538,6 @@ d:T18dd,<div class="footnotes" id="footnotes">
 </div>6:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$d"}}]
 7:["$","$Le",null,{}]
 8:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
-9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js","async":true}]
+9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null

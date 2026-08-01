@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
-e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
+b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 2:T4b91,
@@ -262,9 +262,9 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   .reading-time-fab{top:12px;right:12px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TPGrApnGNldOhnwI32wN8"}
-3:["$","$Lb",null,{"readingTime":"约 13 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c1","label":"第一章面包车厂的翻身"},{"id":"c2","label":"第二章华为这台印钞机"},{"id":"c3","label":"第三章一笔流向华为的账"},{"id":"c4","label":"第四章赎回灵魂的三笔钱"},{"id":"c5","label":"第五章五界分流，含华量被稀释"},{"id":"c6","label":"第六章增长的悬崖"},{"id":"c7","label":"第七章赎回自我的赌注"},{"id":"c8","label":"尾声灵魂的去向"}],"status":"published"}]
-4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"公司"}],["$","span",null,{"children":"赛力斯"}],[["$","span","华为",{"children":"华为"}],["$","span","新能源",{"children":"新能源"}],["$","span","智选车",{"children":"智选车"}]]]}],["$","h1",null,{"children":"赛力斯：把灵魂交给华为的车厂，与它算不清的那笔\"华为账\""}],"$undefined",["$","p",null,{"children":"2025年问界系列销量突破40万辆，赛力斯营收首次突破2000亿元——但净利润率仅2.1%。华为智选车模式下，赛力斯承担了大部分制造和供应链成本，而利润大头流向了哪里？问界商标归华为所有，\"灵魂\"和\"身体\"的账本，赛力斯的股东们算得清楚吗？"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月20日"," · ","约 13 分钟阅读"]}]]}]]}]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Sq6pLbqDd48GgsnEXVA-M"}
+3:["$","$Lb",null,{"readingTime":"约 13 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c1","label":"第一章面包车厂的翻身"},{"id":"c2","label":"第二章华为这台印钞机"},{"id":"c3","label":"第三章一笔流向华为的账"},{"id":"c4","label":"第四章赎回灵魂的三笔钱"},{"id":"c5","label":"第五章五界分流，含华量被稀释"},{"id":"c6","label":"第六章增长的悬崖"},{"id":"c7","label":"第七章赎回自我的赌注"},{"id":"c8","label":"尾声灵魂的去向"}]}]
+4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"公司"}],["$","span",null,{"children":"赛力斯"}],[["$","span","华为",{"children":"华为"}],["$","span","新能源",{"children":"新能源"}],["$","span","智选车",{"children":"智选车"}]]]}],"$undefined",["$","h1",null,{"children":"赛力斯：把灵魂交给华为的车厂，与它算不清的那笔\"华为账\""}],"$undefined",["$","p",null,{"children":"2025年问界系列销量突破40万辆，赛力斯营收首次突破2000亿元——但净利润率仅2.1%。华为智选车模式下，赛力斯承担了大部分制造和供应链成本，而利润大头流向了哪里？问界商标归华为所有，\"灵魂\"和\"身体\"的账本，赛力斯的股东们算得清楚吗？"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月20日"," · ","约 13 分钟阅读"]}]]}]]}]
 c:T7c47,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
 <p class="drop-cap reveal">2026 年 7 月 12 日，赛力斯披露半年度业绩预告：预计归母净利润亏损 15 亿至 18 亿元。<sup><a id="fnref-10-1" href="#fn10" aria-label="查看注释 10">[10]</a></sup>就在同一份预告里，另一个数字却朝上——上半年累计交付 17.87 万辆，其中问界同比还涨了 10.2%。<sup><a id="fnref-10-2" href="#fn10" aria-label="查看注释 10">[10]</a></sup>卖得更多，却亏得更多。一家刚刚在去年 11 月登陆港交所、成为首家"A+H"两地上市豪华新能源车企的公司，在翻身四年之后，第一次把"利润"这四个字，写成了负号。<sup><a id="fnref-3-1" href="#fn3" aria-label="查看注释 3">[3]</a></sup></p>
 
@@ -493,6 +493,6 @@ d:T1993,<div class="footnotes">
 </div>6:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$d"}}]
 7:["$","$Le",null,{}]
 8:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
-9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js","async":true}]
+9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null
