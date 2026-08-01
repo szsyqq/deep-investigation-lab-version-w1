@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
-e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
+e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 2:T31a1,
@@ -150,8 +150,8 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
   footer{font-size:11px;padding:20px 0 40px}
 }
 
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GPpcxeg9kqllnTtP4sbe1"}
-3:["$","$Lb",null,{"readingTime":"约 25 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c0","label":"导语创纪录订单簿——8754架背后的订单悖论"},{"id":"c2","label":"第二章发动机之困——普惠GTF的粉末冶金\"原罪\""},{"id":"c3","label":"第三章另一台发动机——LEAP-1A能否成为空客的Plan B？"},{"id":"c4","label":"第四章诉讼进行时——空客与普惠的裂缝是如何撕开的"},{"id":"c5","label":"第五章Spirit收购与供应链重整——垂直整合的代价"},{"id":"c6","label":"第六章波音的反扑——双寡头力量平衡的微妙重调"},{"id":"c7","label":"第七章中国赌局——C919追击与空客的防御"},{"id":"c8","label":"第八章防务与航天——断臂求生与Project Bromo的豪赌"},{"id":"c9","label":"第九章氢能梦想——现实与未来的裂谷"},{"id":"c10","label":"第十章财务透视——创纪录利润背后的现金之殇"},{"id":"epilogue","label":"尾声当发动机比飞机更值钱"}]}]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TPGrApnGNldOhnwI32wN8"}
+3:["$","$Lb",null,{"readingTime":"约 25 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c0","label":"导语创纪录订单簿——8754架背后的订单悖论"},{"id":"c2","label":"第二章发动机之困——普惠GTF的粉末冶金\"原罪\""},{"id":"c3","label":"第三章另一台发动机——LEAP-1A能否成为空客的Plan B？"},{"id":"c4","label":"第四章诉讼进行时——空客与普惠的裂缝是如何撕开的"},{"id":"c5","label":"第五章Spirit收购与供应链重整——垂直整合的代价"},{"id":"c6","label":"第六章波音的反扑——双寡头力量平衡的微妙重调"},{"id":"c7","label":"第七章中国赌局——C919追击与空客的防御"},{"id":"c8","label":"第八章防务与航天——断臂求生与Project Bromo的豪赌"},{"id":"c9","label":"第九章氢能梦想——现实与未来的裂谷"},{"id":"c10","label":"第十章财务透视——创纪录利润背后的现金之殇"},{"id":"epilogue","label":"尾声当发动机比飞机更值钱"}],"status":"beta"}]
 4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",["$","span",null,{"className":"article-status-badge beta","children":"公开试读"}],["$","b",null,{"children":"公司"}],["$","span",null,{"children":"空中客车"}],[["$","span","航空",{"children":"航空"}],["$","span","供应链",{"children":"供应链"}],["$","span","欧洲",{"children":"欧洲"}]]]}],["$","h1",null,{"children":"空中客车：八千架飞机的赌注——产能马拉松与发动机之困"}],"$undefined",["$","p",null,{"children":"8754架积压订单、900架因发动机停飞的飞机、一场对簿公堂的供应商诉讼——全球最大飞机制造商被一台发动机卡住了喉咙。为什么航空公司还在疯狂下单？GTF发动机的粉末冶金缺陷如何引爆全球供应链危机？诉讼、收购、C919追击，空客在2026年面临的不只是一个引擎问题。"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月24日"," · ","约 25 分钟阅读"]}]]}]]}]
 c:Ta7eb,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>创纪录订单簿——8754架背后的订单悖论</h2>
 
@@ -632,6 +632,6 @@ d:T3560,<div class="footnotes">
 </div>6:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$d"}}]
 7:["$","$Le",null,{}]
 8:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
-9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true}]
+9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/0g7hccb63jqu3.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null
