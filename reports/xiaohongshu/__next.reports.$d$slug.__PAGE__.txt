@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
-e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
+e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 2:T571e,
@@ -301,7 +301,7 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   .reading-time-fab{top:12px;right:12px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HDVwjBB3zAob3JWSAKPgp"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vHmEsRBpQRusd5DC3OQK5"}
 3:["$","$Lb",null,{"readingTime":"约 14 分钟阅读","chapters":[{"id":"report-top","label":"导语"}]}]
 4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"公司"}],["$","span",null,{"children":"小红书"}],[["$","span","内容社区",{"children":"内容社区"}],["$","span","IPO",{"children":"IPO"}],["$","span","种草",{"children":"种草"}]]]}],"$undefined",["$","h1",null,{"children":"小红书：种草的帝国，信任的裂缝"}],"$undefined",["$","p",null,{"children":"2025年营收突破500亿元，月活3.5亿，但商业化加速带来了\"种草变质\"的信任危机——虚假测评泛滥、算法推荐黑盒、品牌投放干预内容。在冲击IPO的关口，小红书的社区氛围和商业变现之间，那条裂缝能补上吗？"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月21日"," · ","约 14 分钟阅读"]}]]}]]}]
 c:T8ff7,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
@@ -336,6 +336,6 @@ d:T169c,<div class="footnotes"><h3>注释与资料来源</h3><ol><li id="fn1">�
 </ol></div>6:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$d"}}]
 7:["$","$Le",null,{}]
 8:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
-9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true}]
+9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null

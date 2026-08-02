@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
-e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
+e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 2:T53f7,:root{--paper:#f5f1e8;--ink:#1a1a1a;--red:#a02020;--gold:#b8860b;--gray:#6b6b6b;--line:#c9c2b3;--bg-dark:#2a2520;--quote-bg:#ede8db;--blue:#3a6ea5;--green:#2d7a4a}
@@ -286,7 +286,7 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   .reading-time-fab{top:12px;right:12px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HDVwjBB3zAob3JWSAKPgp"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vHmEsRBpQRusd5DC3OQK5"}
 3:["$","$Lb",null,{"readingTime":"约 20 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c1","label":"第一章清华的学霸：从实验室走到资本战场"},{"id":"c2","label":"第二章追问收入：7亿营收里，多少是生意，多少是\"国家队\"订单？"},{"id":"c3","label":"第三章追问毛利：云端-0.4%，贴钱换规模的账算得平吗？"},{"id":"c4","label":"第四章追问开源：权重公开的模型，定价权还在谁手里？"},{"id":"c5","label":"第五章四根失血的曲线：增长的另一面"},{"id":"c6","label":"第六章追问资本：估值三年半30倍，73倍市销率买的是什么？"},{"id":"c7","label":"第七章追问竞争：六小虎里的\"学霸\"，打不赢大厂的饱和战？"},{"id":"c8","label":"第八章追问持续经营：-81亿股东权益，审计怎么看？"},{"id":"c9","label":"第九章粮草与紧箍咒：一场更贵的长跑"},{"id":"e","label":"尾声学霸还没写完的那份财报"}]}]
 4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"技术"}],["$","span",null,{"children":"智谱"}],[["$","span","AI",{"children":"AI"}],["$","span","大模型",{"children":"大模型"}],["$","span","港股",{"children":"港股"}]]]}],"$undefined",["$","h1",null,{"children":"智谱：学霸下海，与一门它还在学的生意"}],"$undefined",["$","p",null,{"children":"清华系出身的AI大模型公司，2025年营收约8亿元，但亏损超过15亿元——B端大模型定制开发利润率极低，C端产品尚未打开市场。在\"百模大战\"步入淘汰赛的阶段，智谱的技术论文拿得出手，但商业化的作业还没交。上市前的账本摊开看，比靠融资输血更紧迫的是找到自己的收费模式。"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月21日"," · ","约 20 分钟阅读"]}]]}]]}]
 c:Te217,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
@@ -848,6 +848,6 @@ d:T16d2,<div class="footnotes">
 </div>6:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$d"}}]
 7:["$","$Le",null,{}]
 8:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
-9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true}]
+9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null

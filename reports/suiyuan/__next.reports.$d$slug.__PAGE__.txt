@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
-e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js"],"default"]
+b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
+e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
 2:T4854,
@@ -240,7 +240,7 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   .reading-time-fab{top:12px;right:12px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HDVwjBB3zAob3JWSAKPgp"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vHmEsRBpQRusd5DC3OQK5"}
 3:["$","$Lb",null,{"readingTime":"约 18 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"c1","label":"第一章起个大早，赶个晚集"},{"id":"c2","label":"第二章追问收入：11倍增长从哪来？"},{"id":"c3","label":"第三章追问客户：腾讯的\"干儿子\""},{"id":"c4","label":"第四章追问利润：三年烧掉51.79亿，何时回本？"},{"id":"c5","label":"第五章追问技术：不抄CUDA的那条窄路"},{"id":"c6","label":"第六章追问份额：1.4%的现实"},{"id":"c7","label":"第七章追问治理：不足30%的方向盘"},{"id":"c8","label":"第八章招股书之外：四小龙的终局"},{"id":"c9","label":"尾声：没有腾讯，也能活吗"}]}]
 4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"技术"}],["$","span",null,{"children":"燧原科技"}],[["$","span","AI芯片",{"children":"AI芯片"}],["$","span","GPU",{"children":"GPU"}],["$","span","IPO",{"children":"IPO"}]]]}],"$undefined",["$","h1",null,{"children":"燧原科技：一家AI芯片独角兽，和它越写越大的\"腾讯账单\""}],"$undefined",["$","p",null,{"children":"腾讯连续参与燧原全部七轮融资，持股比例超过20%，贡献了燧原预估营收的60%以上——腾讯既是最大股东又是最大客户。在国产AI芯片替代浪潮中，燧原靠腾讯订单撑起估值，但客户集中度风险、与腾讯云的战略绑定关系，让IPO路上的独立性问题愈发敏感。"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月20日"," · ","约 18 分钟阅读"]}]]}]]}]
 c:T6e5b,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
@@ -496,6 +496,6 @@ d:T1c7a,<div class="footnotes">
 </div>6:["$","aside",null,{"className":"shared-article-notes","aria-label":"文章注记","dangerouslySetInnerHTML":{"__html":"$d"}}]
 7:["$","$Le",null,{}]
 8:["$","footer",null,{"className":"shared-legal-footer","children":[["$","div",null,{"children":[["$","b",null,{"children":"法律资料声明"}],["$","p",null,{"children":"本档案室所有内容均基于公开信息形成，仅供研究参考，不构成投资建议、要约或推荐。文中判断可能随新披露而变化，读者应独立核验并自行判断。"}]]}],["$","div",null,{"children":[["$","b",null,{"children":"注记"}],["$","p",null,{"children":"数据截止日期、特定口径和来源列于各报告正文及脚注。部分研究与技术工作可能使用人工智能工具辅助，正式结论仍需人工审核。"}]]}]]}]
-9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/15kjij200778q.js","async":true}]
+9:["$","script","script-0",{"src":"/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js","async":true}]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 11:null
