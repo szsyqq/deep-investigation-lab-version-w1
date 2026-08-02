@@ -301,7 +301,7 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   .reading-time-fab{top:12px;right:12px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bf64WXYfkd95sqMyoM5R-"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rdocLjFwodbwnIRZdhpKr"}
 3:["$","$Lb",null,{"readingTime":"约 14 分钟阅读","chapters":[{"id":"report-top","label":"导语"}]}]
 4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":["$undefined",false,["$","b",null,{"children":"公司"}],["$","span",null,{"children":"小红书"}],[["$","span","内容社区",{"children":"内容社区"}],["$","span","IPO",{"children":"IPO"}],["$","span","种草",{"children":"种草"}]]]}],"$undefined",["$","h1",null,{"children":"小红书：种草的帝国，信任的裂缝"}],"$undefined",["$","p",null,{"children":"2025年营收突破500亿元，月活3.5亿，但商业化加速带来了\"种草变质\"的信任危机——虚假测评泛滥、算法推荐黑盒、品牌投放干预内容。在冲击IPO的关口，小红书的社区氛围和商业变现之间，那条裂缝能补上吗？"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月21日"," · ","约 14 分钟阅读"]}]]}]]}]
 c:T8ff7,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
