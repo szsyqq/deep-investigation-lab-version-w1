@@ -3,11 +3,11 @@ b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux
 e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
-2:T4c9a,/* === 对齐小红书案例的图表样式，覆盖 globals.css 默认规则 === */
+2:T4c8e,/* === 对齐小红书案例的图表样式，覆盖 globals.css 默认规则 === */
 /* 排版规范参考：The WSJ Guide to Information Graphics (Dona M. Wong)
    核心：标题深色左对齐结论式；副标题/来源左对齐小字；数据直接标注；柱宽间距≈5:1；标签保持可读 */
 
-/* ��言（标题下、署名上，管线提取为 content.intro，组件在 hero 区渲染）——灰色小号导语段 */
+/* 导言（标题下、署名上，管线提取为 content.intro，组件在 hero 区渲染）——灰色小号导语段 */
 .article-intro {
   color: #5f5a52 !important;
   font: 15px/1.75 Georgia, "Songti SC", serif !important;
@@ -185,7 +185,7 @@ f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux
   font-family: Georgia,"Times New Roman","Songti SC","SimSun",serif; text-align: center;
 }
 
-/* === 垂直柱���图 === */
+/* === 垂直柱状图 === */
 .published-article-body .vert-bars {
   display: flex; align-items: flex-end; justify-content: center;
   gap: 10px; padding-top: 6px; margin: 10px 0 8px;
@@ -255,7 +255,7 @@ f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux
 .published-article-body .vert-legend .l-total { background: #c9a84c; }
 .published-article-body .vert-legend .l-tbd { border: 2px dashed #c9c2b3; background: transparent; }
 
-/* === 分��对比柱状图 === */
+/* === 分组对比柱状图 === */
 .published-article-body .grouped-bars {
   display: flex; align-items: flex-end; justify-content: center;
   gap: 12px; height: 200px; padding: 8px 0; margin: 10px 0 4px;
@@ -375,7 +375,7 @@ f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux
 /* donut 交互（2026-08-01 新增）：hover 分段高亮 */
 .published-article-body .di-seg { transition: opacity .2s ease, stroke-width .2s ease; cursor: pointer; }
 .published-article-body .di-seg:hover { opacity: .6; stroke-width: 34; }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4",false,"$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cpt0CLWQsNZ_SXpdm03p5"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4",false,"$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"csZTxzRXf51Rurerq5RGi"}
 3:["$","$Lb",null,{"readingTime":"约 16 分钟阅读","chapters":[{"id":"report-top","label":"导语"},{"id":"73天-一场考试在开考前就已结束","label":"第1章73天：一场考试在开考前就已结束"},{"id":"追问收入-机器人卖给了谁","label":"第2章追问收入：机器人卖给了谁"},{"id":"追问技术-没有大脑的智能机器人","label":"第3章追问技术：没有大脑的智能机器人"},{"id":"追问壁垒-90-自研率背后的14-到18","label":"第4章追问壁垒：90%自研率背后的14%到18%"},{"id":"追问资本-从420亿预期到609-9亿定价","label":"第5章追问资本：从420亿预期到609.9亿定价"},{"id":"追问业绩-一个季度-利润腰斩","label":"第6章追问业绩：一个季度，利润腰斩"},{"id":"招股书之外-819页里写得最轻的一页","label":"第7章招股书之外：819页里写得最轻的一页"},{"id":"epilogue","label":"尾声翻不过去的那道坎"}],"preview":true}]
 4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":[["$","span",null,{"className":"article-status-badge internal","children":"内部试读"}],false,["$","b",null,{"children":"公司"}],["$","span",null,{"children":"宇树科技"}],[["$","span","人形机器人",{"children":"人形机器人"}],["$","span","四足机器人",{"children":"四足机器人"}],["$","span","科创板",{"children":"科创板"}],["$","span","具身智能",{"children":"具身智能"}],["$","span","发行价",{"children":"发行价"}]]]}],["$","div",null,{"className":"shared-trial-notice","children":[["$","b",null,{"children":"内部试读"}],["$","span",null,{"children":"本页面为试读版本，部分内容可能由 AI 辅助生成，或未经完整的事实核验与逻辑分析；正式发布前，文章主体与内容均可能调整。"}]]}],["$","h1",null,{"children":"宇树科技：会翻跟头的机器人，和它翻不过去的那道坎"}],["$","div",null,{"className":"article-intro","dangerouslySetInnerHTML":{"__html":"8 月 6 日晚间，宇树科技公告发行价 150.80 元/股，对应市值约 609.9 亿元，发行市盈率 219.23 倍，是行业平均水平的 5.7 倍。它的人形机器人七成收入来自科研教育，真正进工厂干活的全年只有 1570 万元。会翻跟头的机器人拿到了市场给出的最高定价，而它翻不过去的那道坎，还在招股书的字缝里。"}}],false,["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年8月6日"," · ","约 16 分钟阅读"]}]]}]]}]
 c:Ta2cc,<h2 id="c0" data-chapter-label="导语" class="reveal"><span class="chap-num">导语</span></h2>
