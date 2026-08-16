@@ -3,7 +3,7 @@ b:I[64035,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux
 e:I[66206,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js","/deep-investigation-lab-version-w1/_next/static/chunks/03nnosbi0rbt5.js"],"default"]
 f:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
-2:T571e,
+2:T5681,
 .masthead{display:flex;justify-content:space-between;align-items:center;padding:12px 32px;border-bottom:1px solid var(--ink);max-width:1200px;margin:0 auto}
 .masthead .brand{font-size:11px;letter-spacing:4px;text-transform:uppercase;color:var(--ink);font-weight:700}
 .masthead .brand a{color:inherit;text-decoration:none}
@@ -97,10 +97,8 @@ sup:hover{color:var(--ink)}
 .donut-interactive{display:flex;flex-direction:column;align-items:center;gap:14px;margin:18px 0}
 .di-svg-wrap{position:relative;width:100%;max-width:340px;margin:0 auto}
 .di-svg{width:100%;height:auto;display:block;overflow:visible}
-.di-seg{stroke-dasharray:0 452.4;transition:stroke-dasharray 1.1s cubic-bezier(.4,0,.2,1),stroke-width .2s ease,opacity .2s ease;cursor:pointer}
-.di-svg.in .di-seg{stroke-dasharray:var(--da)}
-.di-callout{opacity:0;transition:opacity .6s ease .9s;cursor:pointer}
-.di-svg.in .di-callout{opacity:1;transition:opacity .25s ease}
+.di-seg{stroke-dasharray:var(--da);transition:stroke-width .2s ease,opacity .2s ease;cursor:pointer}
+.di-callout{opacity:1;transition:opacity .25s ease;cursor:pointer}
 .di-lead{fill:none;stroke:#9a9a9a;stroke-width:1;stroke-dasharray:2 2}
 .di-lbl{font-size:10.5px;fill:var(--ink);font-weight:700;font-family:inherit}
 .di-val{font-size:10.5px;font-weight:700;font-family:inherit}
@@ -301,7 +299,7 @@ footer .disc b{color:var(--ink);font-weight:700;display:block;margin-bottom:6px;
 @media(max-width:600px){
   .reading-time-fab{top:12px;right:12px}
 }
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"y7Bn_stUagaTnKoIRrnlX"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"published-article","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$undefined","$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fbFS1xN5syK8LCABoiAvY"}
 3:["$","$Lb",null,{"readingTime":"约 14 分钟阅读","chapters":[{"id":"report-top","label":"导语"}]}]
 4:["$","header",null,{"className":"shared-article-hero","id":"report-top","children":[["$","div",null,{"className":"shared-article-tags","children":[false,false,["$","b",null,{"children":"公司"}],["$","span",null,{"children":"小红书"}],[["$","span","内容社区",{"children":"内容社区"}],["$","span","IPO",{"children":"IPO"}],["$","span","种草",{"children":"种草"}]]]}],null,["$","h1",null,{"children":"小红书：种草的帝国，信任的裂缝"}],"$undefined",["$","p",null,{"children":"2025年营收突破500亿元，月活3.5亿，但商业化加速带来了\"种草变质\"的信任危机——虚假测评泛滥、算法推荐黑盒、品牌投放干预内容。在冲击IPO的关口，小红书的社区氛围和商业变现之间，那条裂缝能补上吗？"}],["$","div",null,{"className":"shared-article-byline","children":[["$","b",null,{"children":"调查团队"}],["$","span",null,{"children":["2026年7月21日"," · ","约 14 分钟阅读"]}]]}]]}]
 c:T8ff7,<h2 id="c0" class="reveal"><span class="chap-num">导语</span>导言</h2>
