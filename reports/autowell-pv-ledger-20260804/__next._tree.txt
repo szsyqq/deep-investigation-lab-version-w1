@@ -1,2 +1,2 @@
-:HL["/deep-investigation-lab-version-w1/_next/static/chunks/14w.be9r~pp1s.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reports","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"autowell-pv-ledger-20260804","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"fbFS1xN5syK8LCABoiAvY"}
+:HL["/deep-investigation-lab-version-w1/_next/static/chunks/107es2munjl5y.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reports","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"autowell-pv-ledger-20260804","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"d-S9-O9dHxCbKqmYJmJby"}
