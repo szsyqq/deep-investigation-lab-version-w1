@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"ViewportBoundary"]
+3:I[97367,["/deep-investigation-lab-version-w1/_next/static/chunks/02_xc0.b.ihux.js","/deep-investigation-lab-version-w1/_next/static/chunks/0xrv4n09fse2k.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"中海油：油价冲破 100 美元，利润只多四分之一 | 深度调查档案室"}],["$","meta","1",{"name":"description","content":"油价从 60 美元冲到 120 美元，中海油半年利润只增四分之一。65 美元起征、最高 40% 的石油特别收益金，把油价红利切走大半——它的弹性被税制削平，下限被成本托底，值得按高股息现金牛定价，而非油价杠杆。"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5Fu00kx_GlApKH9UBcl08"}
